@@ -1,0 +1,8 @@
+.Adscarousel{
+       
+        height: 180px;
+        width: 100%;
+        overflow: hidden;
+        overflow-x: revert;
+        display: flex;
+}
